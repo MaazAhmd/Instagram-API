@@ -1,0 +1,27 @@
+Here are the instructions to run the Application on your Localhost.
+Please follow the instructions in order:
+
+1. Make sure python is installed on your system, otherwise go and install from the official Python Website.
+
+2. Unzip the sent zip file and open that folder in VS Code Terminal (or any Terminal)
+
+3. Go to the directory where the project files are present (on the terminal).
+
+4. Now create a python virtual environment. Run this command to do so: `python -m venv env`
+
+5. Run this command to activate it:
+    Windows: `.\env\Scripts\activate`
+    MAC: `/env/Scripts/activate`
+
+6. Now install the required packages. Run this command to do it: `pip install -r requirements.txt`
+It will take a while to install all the required libraries/packages.
+
+7. Now you are ready to start the App.
+Run this command to start the application: `python app.py`
+
+8. The application will start on the port 5000 of your localhost.
+`http://localhost:5000/`
+
+---------------
+
+That's all. If you face any problem, please let me know. Thank You!
